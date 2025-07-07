@@ -1,4 +1,4 @@
-# Kipps.AI
+# Kipps.AI: True North Star
 
 Why We're Building [Kipps.AI](https://www.kipps.ai):
 
