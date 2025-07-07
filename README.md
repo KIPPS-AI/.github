@@ -19,5 +19,7 @@ Kipps.AI focuses on highlighting training data gaps back to the business (wherev
 We are thrilled to embark on this journey and invite you to join us in revolutionizing how small businesses operate.
 
 With enthusiasm,
-The Kipps.ai Team
+
+The Kipps.AI Team
+
 hello@kipps.ai
