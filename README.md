@@ -1,6 +1,6 @@
 # Kipps.AI
 
-Why We're Building (Kipps.AI)[https://www.kipps.ai]:
+Why We're Building [Kipps.AI](https://www.kipps.ai):
 
 Kipps.AI is a platform to build an AI agent designed to optimise time spent on marketing, sales, and customer support for small businesses. Our mission is to help businesses efficiently handle these critical functions, allowing them to focus more on growth and less on repetitive tasks.
 
